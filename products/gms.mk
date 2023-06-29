@@ -4,6 +4,7 @@ PRODUCT_PACKAGES += \
 	FakeStore \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
+    AuroraStore \
 	FDroid \
 	FDroidPrivilegedExtension \
 	additional_repos.xml
